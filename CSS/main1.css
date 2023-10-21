@@ -1,0 +1,73 @@
+.main1 {
+    display: inline-block;
+    width: 1300px;
+    height: 105px;
+    margin-left: calc(50% - 650px);
+ }
+
+.sekcija1 {
+    height: 910px;
+    background-color: white;
+    text-align: center;
+}
+
+.paragrafas1 {
+    /* margin-top: 35px; */
+    position: relative;
+    top: 60px;
+    height: 50px;
+    font-size: 50px;
+    line-height: 45px;
+}
+
+.request-demo2 {
+    margin-top: 95px;
+    width: 170px;
+    height: 55px;
+    border-radius: 4.5px;
+    color: white;
+    font-size: 17px;
+    background-color: #9A54BC;
+    border: solid #9A54BC;
+}
+
+.nuotrauku-deliojimas1 {
+    position: relative;
+}
+
+.nuotrauku-deliojimas1 > img {
+    position: absolute;
+}
+
+.nuotrauka1 {
+    margin-top: 50px;
+    width: 600px;
+    margin-left: -300px;
+}
+
+.nuotrauka2 {
+    margin-top: 80px;
+    width: 354px;
+    margin-left: -177px;
+}
+
+.nuotrauka3 {
+    margin-top: 96px;
+    width: 200px;
+    height: 378px;
+    margin-left: -100px;
+}
+
+.nuotrauka4 {
+    margin-top: 265px;
+    width: 140px;
+    margin-left: -70px;
+}
+
+.sekcija2 {}
+
+.sekcija3 {}
+
+.sekcija4 {}
+
+.sekcija5 {}
