@@ -9,7 +9,6 @@
 .sekcija1 {
     height: 910px;
     background-color: white;
-    text-align: center;
 }
 
 .paragrafas1 {
@@ -110,7 +109,7 @@
 }
 
 .sekcija4 {
-    height: 800px;
+    height: 700px;
     background-color: white;
 }
 
@@ -121,6 +120,7 @@
     font-size: 35px;
     line-height: 45px;
 }
+
 .paragrafas5 {
     position: relative;
     top: 30px;
@@ -130,6 +130,54 @@
 }
 
 .sekcija5 {
-    height: 375px;
-    background-color: gray;
+    height: 500px;
+    background-color: white;
+}
+
+.paragrafas6 {
+    position: relative;
+    top: 65px;
+    height: 35px;
+    font-size: 35px;
+    line-height: 45px;
+}
+
+.nuotrauku-deliojimas4 {
+    display: inline-flex;
+    margin-top: 125px;
+    height: 300px;
+}
+
+.nuotrauku-deliojimas5 {
+    margin-right: 33px;
+    text-align: left;
+}
+
+.nuotrauku-deliojimas5:last-child {
+    margin-right: 0;
+}
+
+.nuotrauka12 {
+    height: 215px;
+}
+
+.tekstas1 {
+    margin-left: 20px;
+    position: relative;
+    top: 5px;
+    height: 20px;
+    font-size: 20px;
+    font-weight: bolder;
+    line-height: 45px;
+    color: #60267F;
+}
+
+.tekstas2 {
+    margin-left: 20px;
+    position: relative;
+    top: 15px;
+    height: 20px;
+    font-size: 20px;
+    font-weight: bolder;
+    line-height: 45px;
 }
