@@ -89,28 +89,41 @@
     margin-right: 0;
 }
 
-/* .nuotrauka5 {
-    height: 105px;
+.sekcija3 {
+    height: 700px;
+    background-color: white;
 }
 
-.nuotrauka6 {
-    height: 105px;
+.paragrafas3 {
+    position: relative;
+    top: 65px;
+    height: 35px;
+    font-size: 35px;
+    line-height: 45px;
 }
 
-.nuotrauka7 {
-    height: 98px;
+.nuotrauku-deliojimas3 { 
+    margin-top: 130px;
 }
 
-.nuotrauka8 {
-    height: 105px;
+.nuotrauka10 {
+    margin-bottom: 70px;
+    width: 400px;
+    height: 420px;
+    margin-right: 190px;
 }
 
-.nuotrauka9 {
-    height: 87px;
-} */
+.nuotrauka11 {
+    width: 255px;
+    height: 500px;
+}
 
-.sekcija3 {}
+.sekcija4 {
+    height: 375px;
+    background-color: blue;
+}
 
-.sekcija4 {}
-
-.sekcija5 {}
+.sekcija5 {
+    height: 375px;
+    background-color: gray;
+}
