@@ -32,10 +32,6 @@
     border: solid #9A54BC;
 }
 
-.nuotrauku-deliojimas1 {
-    position: relative;
-}
-
 .nuotrauku-deliojimas1 > img {
     position: absolute;
 }
@@ -71,7 +67,6 @@
 }
 
 .paragrafas2 {
-    /* margin-top: 35px; */
     position: relative;
     top: 75px;
     height: 35px;
@@ -102,10 +97,6 @@
     line-height: 45px;
 }
 
-.nuotrauku-deliojimas3 { 
-    margin-top: 130px;
-}
-
 .nuotrauka10 {
     margin-bottom: 70px;
     width: 400px;
@@ -119,8 +110,23 @@
 }
 
 .sekcija4 {
-    height: 375px;
-    background-color: blue;
+    height: 800px;
+    background-color: white;
+}
+
+.paragrafas4 {
+    position: relative;
+    top: 15px;
+    height: 35px;
+    font-size: 35px;
+    line-height: 45px;
+}
+.paragrafas5 {
+    position: relative;
+    top: 30px;
+    height: 20px;
+    font-size: 20px;
+    line-height: 45px;
 }
 
 .sekcija5 {
