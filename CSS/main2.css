@@ -3,14 +3,14 @@
     margin-left: calc(50% - 650px);
     display: inline-block;
     width: 1300px;
-    height: 1500px;
+    height: 700px;
     background-color: aqua;
     text-align: center;
 }
 
 .sekcija6 {
-    height: 600px;
-    background-color: blueviolet;
+    height: 700px;
+    background-color: white;
 }
 
 .paragrafas7 {
@@ -19,7 +19,6 @@
     height: 35px;
     font-size: 35px;
     line-height: 35px;
-    background-color: rgb(50, 196, 196);
 }
 
 .paragrafas8 {
@@ -28,11 +27,151 @@
     height: 18px;
     font-size: 18px;
     line-height: 18px;
-    background-color: rgb(50, 196, 196);
 }
 
-.pasirinkimo-meniu {
+.pasirinkimo-meniu1 {
+    display: inline-flex;
     margin-top: 85px;
-    height: 20px;
-    background-color: rgb(50, 196, 196);
+    width: 100%;
+    /* height: 20px; */
+    /* background-color: rgb(50, 196, 196); */
+}
+
+.pasirinkimas4 {
+    margin-left: 530px;
+    margin-right: 10px;
+    color: #A79D9D;
+    position: relative;
+    height: 18px;
+    font-size: 18px;
+    line-height: 18px;
+}
+
+.pasirinkimas5 {
+    margin-right: 10px;
+    color: #A79D9D;
+    position: relative;
+    height: 38px;
+    font-size: 38px;
+    line-height: 38px;
+}
+
+.pasirinkimas6 {
+    margin-right: 5px;
+    color: #2B0236;
+    position: relative;
+    height: 18px;
+    font-size: 18px;
+    line-height: 18px;
+}
+
+.pasirinkimas7 {
+    color: #2B0236;
+    position: relative;
+    height: 12px;
+    font-size: 12px;
+    line-height: 12px;
+    background-color: #FFE87A;
+}
+
+.pasirinkimo-meniu2 {
+    display: inline-flex;
+    /* height: 500px; */
+    /* background-color: blue; */
+}
+
+.pasirinkimas1 {
+    margin-top: 60px;
+    margin-right: 40px;
+    width: 235px;
+    height: 425px;
+    background-color: white;
+    border-radius: 10px;
+    border: 2px solid #aaa;
+}
+
+.pasirinkimo-tekstas1 {
+    text-align: start;
+    position: relative;
+    margin-left: 20px;
+    top: 20px;
+    height: 23px;
+    font-size: 23px;
+    line-height: 23px;
+}
+
+.pasirinkimo-tekstas2 {
+    text-align: start;
+    position: relative;
+    margin-left: 20px;
+    top: 50px;
+    height: 35px;
+    font-size: 35px;
+    line-height: 35px;
+}
+
+.request-demo3 {
+    margin-top: 85px;
+    width: 170px;
+    height: 54px;
+    border-radius: 4.5px;
+    color: #2B0236;
+    font-size: 17px;
+    font-weight: bolder;
+    background-color: white;
+    border: solid #2B0236;
+    cursor: pointer;
+}
+
+.request-demo3:hover {
+    color: #2B0236;
+    background-color: #9A54BC;
+}
+
+.sarasas1 {
+    margin-top: 30px;
+    /* width: 200px; */
+    /* height: 100px; */
+    background-color: #9A54BC;
+}
+
+.pasirinkimo-aprasas1 {
+    margin-top: 7px;
+    text-align: start;
+    float: left;
+}
+
+.pasirinkimo-aprasas1:first-child {
+    margin-top: 0px;
+}
+
+.nuotrauka13{
+    margin-left: 18px;
+    width: 21px;
+}
+
+.pasirinkimo-tekstas3 {
+    float: right;
+    position: relative;
+    top: 5px;
+    height: 15px;
+    font-size: 15px;
+    line-height: 15px;
+    color: #000 70%;
+}
+
+.pasirinkimas3 {
+    margin-top: 60px;
+    width: 235px;
+    height: 425px;
+    background-color: #56E6A5;
+    border-radius: 10px;
+    border: 2px solid #aaa;
+}
+
+.sarasas3 {
+    margin-top: 30px;
+    /* width: 200px; */
+    /* height: 100px; */
+    background-color: #9A54BC;
 }
