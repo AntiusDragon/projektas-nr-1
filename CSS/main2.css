@@ -1,0 +1,38 @@
+.main2 {
+    margin-top: 320px;
+    margin-left: calc(50% - 650px);
+    display: inline-block;
+    width: 1300px;
+    height: 1500px;
+    background-color: aqua;
+    text-align: center;
+}
+
+.sekcija6 {
+    height: 600px;
+    background-color: blueviolet;
+}
+
+.paragrafas7 {
+    position: relative;
+    top: 15px;
+    height: 35px;
+    font-size: 35px;
+    line-height: 35px;
+    background-color: rgb(50, 196, 196);
+}
+
+.paragrafas8 {
+    position: relative;
+    top: 35px;
+    height: 18px;
+    font-size: 18px;
+    line-height: 18px;
+    background-color: rgb(50, 196, 196);
+}
+
+.pasirinkimo-meniu {
+    margin-top: 85px;
+    height: 20px;
+    background-color: rgb(50, 196, 196);
+}

@@ -1,0 +1,9 @@
+.main3 {
+    margin-top: 120px;
+    margin-left: calc(50% - 650px);
+    display: inline-block;
+    width: 1300px;
+    height: 600px;
+    background-color: blueviolet;
+    text-align: center;
+}

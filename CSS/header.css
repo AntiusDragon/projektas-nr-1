@@ -1,3 +1,12 @@
+@font-face {
+   font-family: "Roboto";
+   src: url("./fft/Roboto-Medium.ttf") format("opentype");
+}
+
+@font-face {
+   font-family: "Comfortaa";
+   src: url("./fft/Comfortaa-VariableFont_wght.ttf") format("opentype");
+}
 body,
 body * {
    box-sizing: border-box;
@@ -9,10 +18,10 @@ body * {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     background-color: hsl(280, 63%, 61%);
     /* background-color: #fcf8fe; */
+    font-family: "Roboto";
  }
 
  .pagrindinis {
-   background-color: aqua;
     display: inline-block;
     width: 1300px;
     height: 105px;
@@ -32,11 +41,16 @@ body * {
     height: 75px;
  }
 
- .logo {
-    height: 38px;
-    float: left;
-    margin-top: 13.5px;
-    margin-left: 66px;
+ .logo1 {
+   font-family: "Comfortaa";
+   float: left;
+   margin-left: 66px;
+   position: relative;
+   top: 13.5px;
+   height: 45px;
+   font-size: 45px;
+   line-height: 45px;
+   color: #9A54BC;
  }
  
  .main-heder-rigth-side {
@@ -54,7 +68,7 @@ body * {
     color: #2B0236;
     font-size: 12px;
     line-height: 12px;
-    font-weight: bold;
+    /* font-weight: bold; */
     margin-right: 22px;
     text-decoration: none;
  }
