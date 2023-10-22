@@ -79,4 +79,10 @@ body * {
     margin-top: 22.5px;
     border: 1.5px solid #9A54BC;
     border-radius: 3px;
+    cursor: pointer;
+ }
+
+ .request-demo:hover {
+   color: white;
+   background-color: #9A54BC;
  }

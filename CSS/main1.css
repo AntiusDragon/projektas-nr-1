@@ -12,7 +12,6 @@
 }
 
 .paragrafas1 {
-    /* margin-top: 35px; */
     position: relative;
     top: 60px;
     height: 50px;
@@ -29,6 +28,12 @@
     font-size: 17px;
     background-color: #9A54BC;
     border: solid #9A54BC;
+    cursor: pointer;
+}
+
+.request-demo2:hover {
+    color: #9A54BC;
+    background-color: white;
 }
 
 .nuotrauku-deliojimas1 > img {
@@ -58,6 +63,26 @@
     margin-top: 265px;
     width: 140px;
     margin-left: -70px;
+}
+
+.expllore-product {
+    position: absolute;
+    transform: translateX(-50%);
+    z-index: 2;
+    margin-top: 540px;
+    width: 170px;
+    height: 41px;
+    border-radius: 4.5px;
+    color: #9A54BC;
+    font-size: 17px;
+    background-color: white;
+    border: solid #9A54BC;
+    cursor: pointer;
+}
+
+.expllore-product:hover {
+    color: white;
+    background-color: #9A54BC;
 }
 
 .sekcija2 {
